@@ -16,8 +16,12 @@ This application was developed in Android Studio in Kotlin and XML. Copilot and 
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Android Developers: Create an input method](https://developer.android.com/develop/ui/views/touch-and-input/creating-input-method)
+* [Geeks for Geeks: Implement IME Action Buttons in Soft Keyboard](https://www.geeksforgeeks.org/kotlin/implement-ime-action-buttons-in-soft-keyboard-in-android-using-jetpack-compose/)
+* [Android framework classes and services](https://android.googlesource.com/platform/frameworks/base/)
+* [Constraintlayout library](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
+* [Wikipedia: International Phonetic Alphabet chart](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
+* [Wikipedia: Combining Diacritical Marks](https://en.wikipedia.org/wiki/Combining_Diacritical_Marks)
 
 # Future Work
 
