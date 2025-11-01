@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IPA Keyboard</string>
+    <string name="ime_name">IPA Keyboard</string>
+
+    <!-- Sub-Layout Switch Keys -->
+    <string name="manner_nasal">Nas</string>
+    <string name="manner_plosive">Plo</string>
+    <string name="manner_sibilant_fricative">Sib Fric</string>
+    <string name="manner_non_sibilant_fricative">NS Fric</string>
+    <string name="manner_approximant">App</string>
+    <string name="manner_tap">Tap</string>
+    <string name="manner_trill">Trill</string>
+    <string name="manner_lateral_fricative">Lat Fric</string>
+    <string name="manner_lateral_approximant">Lat App</string>
+    <string name="manner_lateral_tap">Lat Tap</string>
+    <string name="manner_implosive">Implosive</string>
+    <string name="manner_symbol">Symbol</string>
+    <string name="diacritic_1">1</string>
+    <string name="diacritic_2">2</string>
+    <string name="diacritic_3">3</string>
+    <string name="diacritic_4">4</string>
+    <string name="diacritic_5">5</string>
+    <string name="diacritic_6">6</string>
+    <string name="diacritic_7">7</string>
+
+    <!-- Layout Switch Keys, Space Bar, Backspace, and Enter -->
+    <string name="voicing">Ø</string>
+    <string name="rounding">◌͑</string>
+    <string name="pulmonic">p</string>
+    <string name="vowels">i/y</string>
+    <string name="non_pulmonic">ʘ</string>
+    <string name="diacritics">◌́</string>
+    <string name="space">␣</string>
+    <string name="symbols">ː</string>
+    <string name="backspace">⌫</string>
+    <string name="enter">⏎</string>
+</resources>
