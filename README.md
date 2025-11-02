@@ -4,9 +4,8 @@ This application is an IME that allows a user to input characters from the IPA a
 
 I created this keyboard because, as far as I am aware, no similar keyboard currently exists. This is a program that I believe will help many linguists streamline their work, myself included.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtube.com/shorts/e-J1X6dB3MM) (Sorry it's a Short. I don't know YouTube well enough to fix it.)
+[Code Overview](https://www.youtube.com/watch?v=htpUsgGlSoc)
 
 # Development Environment
 
