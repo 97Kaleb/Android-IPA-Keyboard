@@ -58,7 +58,7 @@ class IPAInputMethodService : InputMethodService() {
     private val diacritics5 = listOf("◌̀", "◌́", "◌͂", "◌̓", "◌̈́", "◌ͅ", "◌͆", "◌͇", "◌͈", "◌͉", "◌͊", "◌͋", "◌͌", "◌͍", "◌͎", "CGJ")
     private val diacritics6 = listOf("◌͐", "◌͑", "◌͒", "◌͓", "◌͔", "◌͕", "◌͖", "◌͗", "◌͘", "◌͙", "◌͚", "◌͛", "◌͜◌", "◌͝◌", "◌͞◌", "◌͟◌")
     private val diacritics7 = listOf("◌͠◌", "◌͡◌", "◌͢◌", "◌ͣ", "◌ͤ", "◌ͥ", "◌ͦ", "◌ͧ", "◌ͨ", "◌ͩ", "◌ͪ", "◌ͫ", "◌ͬ", "◌ͭ", "◌ͮ", "◌ͯ")
-    private val symbols = listOf("[", "]", "/", "{", "}", "(", ")", "⸨", "⸩", "꜒", "꜓", "꜔", "꜕", "꜖")
+    private val symbols = listOf("[", "]", "/", "{", "}", "(", ")", "⸨", "⸩", "ː", "꜒", "꜓", "꜔", "꜕", "꜖")
     private var voicingState = VoicingState.UNVOICED
     private var roundingState = RoundingState.UNROUNDED
     private var currentLayout: Layout = Layout.PULMONIC
